@@ -1,7 +1,7 @@
 === KiwiChat NextClient ===
 Contributors: kiwichat, showchat
 Tags: IRC, chat, webchat, kiwi, kiwiirc, nextclient, kiwiirc nextclient, embed, embedded, live chat, irc client, kiwichat
-Donate link: https://showchat.tk
+Donate link: https://kiwichat.github.io
 Requires at least: 5.0
 Tested up to: 5.8
 Requires PHP: 5.6
